@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Skranji');
+
+body {
+	padding: 0;
+	background: #ffffff url('https://www.wadeco.de/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/h/chuck_norris_x_wandtattoo.jpg') no-repeat;	
+	font-family: 'Skranji', cursive;
+	display: flex;
+}
+
+.container {
+	word-wrap: break-word;
+	margin-left: 570px;
+	margin-top: 150px;
+	max-width: 700px;
+	word-wrap: break-word;
+}
+
+h1 {
+	font-size: 4em;
+ }
+
+#get-joke{
+	margin-bottom: 60px;
+	font-size: 1.7em;
+}
+
+#joke {
+	font-size: 2em;
+	color: red;
+
+}
